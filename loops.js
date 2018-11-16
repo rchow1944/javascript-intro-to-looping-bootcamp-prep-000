@@ -19,6 +19,6 @@ function doWhileLoop(arr) {
     i = i + 1;
   }
   do{
-    var i =0
+    
   } while (arr.length > 0 && incrementVariable())
 }
