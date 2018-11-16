@@ -18,6 +18,7 @@ function doWhileLoop(arr) {
   function incrementVariable() {
     i = i + 1;
   }
+  arr.pop();
   do{
     
   } while (arr.length > 0 && incrementVariable())
