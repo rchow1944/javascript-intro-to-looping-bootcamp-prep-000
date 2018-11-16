@@ -22,4 +22,5 @@ function doWhileLoop(arr) {
   do{
     
   } while (arr.length > 0 && incrementVariable())
+  return arr;
 }
